@@ -1,1 +1,1 @@
-
+AI recruiter application built using MERN stack and gemini api for automating the job recruitement process like fetching the resumes that match job description from external sites, filtering the resume using gemini, scheduling interview and managing the recruitment process
